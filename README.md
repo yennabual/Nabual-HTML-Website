@@ -1,23 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nabual HTML Profile</title>
-</head>
-<body>
+### Well hello there!
 
-    <h1><b>Nabual, Rhealyn</b></h1>
-    <h2><i>"Time is gold"</i></h2>
-    <h3>BSIT-225</h3>
-    <h4>QUEZON CITY</h4>
-    <h5>WEBPROG</h5>
-    <h6>I love you!</h6>
+This repository is meant to provide an example for *forking* a repository on GitHub.
 
-<pre>"Hello World!"</pre>
+Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
+After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
-	<img src="taytay.jpg" alt="Taylor" width="150" height="300">
-	<a href="https://national-u.edu.ph/nu-fairview/">Visit National University Website</a>
-</body>
-</html>
+For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
